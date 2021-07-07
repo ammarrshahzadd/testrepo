@@ -1,3 +1,3 @@
 # testrepo
 
-Getting used to Github repositories
+It's a markdown file in the repository
